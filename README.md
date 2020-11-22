@@ -1,9 +1,9 @@
-The purpose of this wine prediction classifier was to get familiar with following concept:
+The purpose of this wine prediction classifier was to get familiar with following concepts:
 
-1 Make whole END to END project from model building to deployment
-2 Random forest classifier
-3 FLASK and flasgger
-4 Heroku
+1 Make whole END to END project from model building to deployment.
+2 Random forest classifier.
+3 FLASK and flasgger.
+4 Heroku.
 
 TRY using following values:
 Type	Alcohol	Malic	Ash	Alcalinity	Magnesium	Phenols	Flavanoids	Nonflavanoids	Proanthocyanins	  Color 	Hue	  Dilution 	Proline
