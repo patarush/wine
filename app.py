@@ -22,7 +22,7 @@ classifier=pickle.load(pickle_in)
 #def welcome():
 #    return "welcome"
 
-@app.route('/predict',methods=['get'])
+@app.route('/predict',methods=['Get'])
 def pred_wine_type():
 
     """Lets Predict Wine type  
